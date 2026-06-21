@@ -1,8 +1,8 @@
 # Channel Estimation and Beam Training for MISO Communications
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img src="https://github.com/buerHuang/Channel-Estimation-and-Beam-Training-for-MISO-Communications/blob/main/Rate.svg" alt="Rate_SNR" style="flex: 1; min-width: 200px; max-width: 45%; height: auto;">
-  <img src="https://github.com/buerHuang/Channel-Estimation-and-Beam-Training-for-MISO-Communications/blob/main/NMSE.svg" alt="NMSE_SNR" style="flex: 1; min-width: 200px; max-width: 45%; height: auto;">
+  <img src="https://github.com/buerHuang/Channel-Estimation-and-Beam-Training-for-MISO-Communications/blob/main/Rate.svg" alt="Rate_SNR" style="flex: 1; min-width: 200px; max-width: 40%; height: auto;">
+  <img src="https://github.com/buerHuang/Channel-Estimation-and-Beam-Training-for-MISO-Communications/blob/main/NMSE.svg" alt="NMSE_SNR" style="flex: 1; min-width: 200px; max-width: 40%; height: auto;">
 </div>
 
 This is a demonstration of CSI acquisition via LS, MMSE, OMP, IGW channel estimation and exhaustive beam training.
