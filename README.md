@@ -1,2 +1,2 @@
-# LS-and-MMSE-Channel-Estimation-for-MISO-Communication-Systems
-The Matlab Code for LS and MMSE Channel Estimation
+# Channel Estimation and Beam Training for MISO Communications
+This is a demonstration of CSI acquisition via LS, MMSE, OMP, IGW channel estimation and exhaustive beam training.
