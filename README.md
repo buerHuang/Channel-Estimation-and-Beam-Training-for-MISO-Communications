@@ -10,3 +10,11 @@ far_field_manifold: This generates the far-field manifold (array response) vecto
 LS_Channel_Estimation: least squares based channel estimation.
 
 MMSE_Channel_Estimation: Channel estimation based on minimum mean square error.
+
+OMP_Channel_Estimation: Channel estimation with orthogonal matching pursuit.
+
+OMP_IGW_Channel_Estimation: Orthogonal matching pursuit followed by gridless weighted refinement.
+
+**Rate_SNR:** Beamforming is performed by estimating the phase of the channel and calculating the reachable rate.
+
+**NMSE_SNR:** Compare the NMSE of different channel estimation methods as a function of SNR variation.
