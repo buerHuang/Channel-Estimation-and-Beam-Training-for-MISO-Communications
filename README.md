@@ -1,4 +1,4 @@
-# Channel Estimation and Beam Training for MISO Communications
+# Channel Estimation and Beam Training for MISO Communication Systems
 
 <table>
   <tr>
